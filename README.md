@@ -18,10 +18,11 @@ python virtual_try_on.py
    API_ENDPOINT = "https://api.klingai.com/v1/images/kolors-virtual-try-on"
    ACCESS_TOKEN = <获取api_token>
    
-5、执行以下命令以访问应用：
-streamlit run main.py
-访问 localhost:8501。
+5. 执行以下命令以访问应用：
+   ```bash
+   streamlit run main.py
 
-6、相关链接
-youtube链接：https://www.youtube.com/watch?v=ClyI32_zsRY
-b站链接：https://www.bilibili.com/video/BV1eMC2YNEyA/
+## 6、相关链接
+
+- YouTube链接：[点击这里](https://www.youtube.com/watch?v=ClyI32_zsRY)
+- B站链接：[点击这里](https://www.bilibili.com/video/BV1eMC2YNEyA/)
