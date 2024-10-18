@@ -13,11 +13,11 @@
 3、执行以下命令以获取 api_token：
 python virtual_try_on.py
 
-4、将获取的 api_token 配置到 main.py 的第 8、9 行：
-
-API_ENDPOINT = "https://api.klingai.com/v1/images/kolors-virtual-try-on"
-ACCESS_TOKEN = <获取api_token>
-
+4. 将获取的 `api_token` 配置到 `main.py` 的第 8、9 行：
+   ```python
+   API_ENDPOINT = "https://api.klingai.com/v1/images/kolors-virtual-try-on"
+   ACCESS_TOKEN = <获取api_token>
+   
 5、执行以下命令以访问应用：
 streamlit run main.py
 访问 localhost:8501。
