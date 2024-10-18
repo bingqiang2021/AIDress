@@ -21,3 +21,7 @@ ACCESS_TOKEN = <获取api_token>
 5、执行以下命令以访问应用：
 streamlit run main.py
 访问 localhost:8501。
+
+6、相关链接
+youtube链接：https://www.youtube.com/watch?v=ClyI32_zsRY
+b站链接：https://www.bilibili.com/video/BV1eMC2YNEyA/
