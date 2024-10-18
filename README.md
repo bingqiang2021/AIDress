@@ -22,7 +22,7 @@ python virtual_try_on.py
    ```bash
    streamlit run main.py
 
-## 6、相关链接
+## 相关链接
 
 - YouTube链接：[点击这里](https://www.youtube.com/watch?v=ClyI32_zsRY)
 - B站链接：[点击这里](https://www.bilibili.com/video/BV1eMC2YNEyA/)
