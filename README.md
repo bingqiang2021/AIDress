@@ -1,7 +1,7 @@
 # KLing API 使用指南
 
 人人都可以创建 AI 虚拟试穿应用，每个电商网站、线下实体店都可以拥有自己的虚拟试穿。
-
+[![My Video](https://i9.ytimg.com/vi/ClyI32_zsRY/mqdefault.jpg?v=67123096&sqp=COyUzLgG&rs=AOn4CLDQ74qnFyXnFyGHPcdaDDJpqJCSBA)](https://www.youtube.com/watch?v=ClyI32_zsRY&t=1s)
 ## 步骤
 
 1. 在 KLing 的 API 控制台获取 `as` 和 `ak`。
